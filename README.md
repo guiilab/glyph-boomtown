@@ -2,7 +2,7 @@
 
 Glyph application, visualizing data from Boomtown.
 
-- [Glyph - Boomtown](https://guiilab.github.io/glyph-v2/) – Live Version
+- [Glyph - Boomtown](https://guiilab.github.io/glyph-boomtown/) – Live Version
 
 ### Overview
 This is an application for visualizing sequence data. It is composed of two visual representations a state graph (left) and a sequence graph (right). The state graph shows action paths as a node-link diagram, and the sequence graph encodes action sequences as nodes. 
